@@ -92,10 +92,5 @@ function d3Star () {
         return star;
     }
 
-    star.isBorderRounded = function (val) {
-        isBorderRounded = val;
-        return star;
-    }
-
     return star;
 }
